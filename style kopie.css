@@ -1,0 +1,31 @@
+body
+{
+  background: rgb(177,43,128);
+background: linear-gradient(90deg, rgb(166, 91, 173) 0%, rgba(237,105,233,1) 35%, rgb(123, 151, 211) 100%);
+    text-align: center;
+    
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-family:fantasy;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  font-family: fantasy;
+}
+
+p {
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+div.parent {
+	text-align: center;
+	}
+
+ul { 
+	display: inline-block; 
+	text-align: left; 
+  font-family: Georgia, 'Times New Roman', Times, serif
+	}
+
